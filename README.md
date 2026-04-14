@@ -89,7 +89,7 @@ My production system (built for a European coffee packaging broker) processes pr
 
 If you work in packaging, print, or prepress — or you're a US co-packer drowning in manual file checks — I'd genuinely love to talk.
 
-📩 **danish@preziox.com** &nbsp;|&nbsp; 🌐 **[preziox.com](https://preziox.com)** &nbsp;|&nbsp; 💼 **[LinkedIn](https://linkedin.com/in/YOUR_HANDLE)**
+📩 **danish@preziox.com** &nbsp;|&nbsp; 🌐 **[preziox.com](https://preziox.com)** &nbsp;|&nbsp; 💼 **[LinkedIn](https://linkedin.com/in/danishkhilji)**
 
 <div align="center">
 <sub>Built in Karachi, Pakistan 🇵🇰 · Registered in Estonia 🇪🇪 · Serving clients globally</sub>
