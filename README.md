@@ -1,96 +1,183 @@
 <div align="center">
 
 # Muhammad Danish
-### Founder · PrezioX — Prepress Automation & 3D Packaging Tools
+
+### Founder & Software Engineer @ PrezioX
+
+**Building AI-powered Prepress Automation for the Print & Packaging Industry**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/danishkhilji)
-[![PrezioX](https://img.shields.io/badge/PrezioX-000000?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyTDIgN2wxMCA1IDEwLTV6TTIgMTdsOSA0LjUgOS00LjUiLz48L3N2Zz4=&logoColor=white)](https://preziox.com)
-[![PrepressCheck](https://img.shields.io/badge/PrepressCheck.com-FF5733?style=flat&logoColor=white)](https://prepresscheck.com)
+[![Website](https://img.shields.io/badge/Website-000000?style=flat)](https://preziox.com)
+[![PrepressCheck](https://img.shields.io/badge/PrepressCheck-FF6B35?style=flat)](https://prepresscheck.com)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:danish@preziox.com)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:danishkhilji112@gmail.com)
 
 </div>
 
 ---
 
-## What I Build
+# 👋 About Me
 
-I make the print & packaging industry faster — PDF preflight pipelines, 3D mockup generators, and prepress automation tools that save hours of manual QA per job.
+I'm a backend-focused software engineer building **PrezioX**, a SaaS platform that automates the repetitive work of print prepress teams.
 
-My production system (built for a European coffee packaging broker) processes print-ready files end-to-end:
+My focus is building software that helps packaging companies:
 
-- 🔍 **PDF Preflight** — ink coverage/TAC checks, bleed validation, overprint detection & auto-fix, font/image DPI enforcement, layer-aware CMYK verification
-- 📦 **3D Packaging Mockup Viewer** — GLB/GLTF rendering with UV-mapped artwork, shareable links, real-time Three.js preview
-- ✂️ **PDF Panel Splitting** — automated dieline-based panel extraction for multi-face packaging layouts
-- ☁️ **File Pipeline** — chunked S3 uploads, WebSocket progress, async processing on AWS EC2
+- Validate print-ready artwork
+- Automatically fix common prepress issues
+- Generate AI-powered preflight reports
+- Create interactive 3D packaging previews
+- Reduce manual QA before files reach production
 
-> *Targeting US packaging brokers and co-packers in supplement, protein, and pet food — if you ship 50k+ units/year, let's talk.*
-
----
-
-## Tech Stack
-
-**Backend**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
-
-**PDF & Prepress**
-![Ghostscript](https://img.shields.io/badge/Ghostscript-000000?style=flat&logoColor=white)
-![PyMuPDF](https://img.shields.io/badge/PyMuPDF-3776AB?style=flat&logo=python&logoColor=white)
-
-**Frontend**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=three.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-
-**Infrastructure**
-![AWS EC2](https://img.shields.io/badge/EC2-FF9900?style=flat&logo=amazon-ec2&logoColor=white)
-![AWS S3](https://img.shields.io/badge/S3-569A31?style=flat&logo=amazon-s3&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+Everything is built with production scalability in mind using modern backend architecture, asynchronous processing, cloud infrastructure, and real-time communication.
 
 ---
 
-## Currently Working On
+# 🚀 What I'm Building
 
+## PrezioX
+
+A complete AI-powered prepress automation platform.
+
+Current capabilities include:
+
+- ✅ PDF Preflight Analysis
+- ✅ AI Executive Summary & Recommendations
+- ✅ RGB → CMYK Conversion
+- ✅ Font Outline Automation
+- ✅ Image DPI Enhancement (300 DPI)
+- ✅ Print Proof Generation
+- ✅ Packaging 3D Viewer
+- ✅ Version-based Job Management
+- ✅ Real-time Processing with WebSockets
+- ✅ AWS S3 File Pipeline
+- ✅ Automated PDF Reports
+
+Target users:
+
+- Packaging manufacturers
+- Print companies
+- Prepress bureaus
+- Packaging brokers
+- Co-packers
+
+---
+
+# 🛠 Tech Stack
+
+### Backend
+
+- Python
+- FastAPI
+- SQLAlchemy
+- PostgreSQL
+- Alembic
+- WebSockets
+- PyMuPDF
+- Ghostscript
+- Pillow
+
+### Frontend
+
+- Next.js
+- React
+- TypeScript
+- Tailwind CSS
+- React Query
+- Three.js
+- shadcn/ui
+
+### Cloud & Infrastructure
+
+- AWS EC2
+- AWS S3
+- AWS SES
+- Nginx
+- Linux
+- GitHub Actions
+
+---
+
+# ⚡ Current Focus
+
+```text
+🚀 Public launch of PrezioX
+
+🤖 AI-powered artwork analysis
+
+📄 Smarter PDF preflight reports
+
+📦 Better packaging workflows
+
+🔄 Job version management
+
+⚡ Faster processing pipeline
+
+🌍 Growing in US & European packaging markets
 ```
-🚧  Ink coverage heatmap visualiser (Ghostscript tiffsep → per-channel CMYK analysis)
-🔧  Overprint auto-fix for white ink layers in layered packaging PDFs
-📡  AWS SAA-C03 Certification
-🌍  Expanding PrezioX to serve US-based packaging brokers & co-packers
-```
 
 ---
 
-## Featured Projects
+# 📌 Featured Projects
 
-| Project | What it does | Stack |
-|---|---|---|
-| [**ÖYE Packaging Pipeline**](https://github.com/Danishkhilji/oye-prepress) | End-to-end prepress automation — preflight, 3D mockup, panel split | FastAPI · PyMuPDF · Ghostscript · Three.js · S3 |
-| [**PrepressCheck.com**](https://prepresscheck.com) | Free PDF preflight tool for print & packaging | Python · FastAPI · React |
-| [**PrezioX Tools**](https://preziox.com) | B2B prepress automation SaaS for packaging brokers | FastAPI · PostgreSQL · AWS |
+## PrezioX
+
+AI-powered prepress automation platform for packaging companies.
+
+**Tech**
+
+FastAPI • Next.js • PostgreSQL • AWS • Three.js
 
 ---
 
-## GitHub Stats
+## PrepressCheck
+
+Free online PDF preflight checker.
+
+https://prepresscheck.com
+
+---
+
+## Packaging 3D Viewer
+
+Interactive browser-based packaging preview using Three.js and GLTF models.
+
+---
+
+# 📈 GitHub Stats
 
 <div align="center">
 
-![Danish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=FF5733&icon_color=FF5733)
-&nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=FF5733)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Danishkhilji&show_icons=true&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Danishkhilji&layout=compact&hide_border=true)
 
 </div>
 
 ---
 
-## Let's Connect
+# 💡 Interests
 
-If you work in packaging, print, or prepress — or you're a US co-packer drowning in manual file checks — I'd genuinely love to talk.
+- Backend Architecture
+- AI Applications
+- SaaS Development
+- Print Technology
+- Packaging Engineering
+- Cloud Infrastructure
+- Automation Systems
 
-📩 **danish@preziox.com** &nbsp;|&nbsp; 🌐 **[preziox.com](https://preziox.com)** &nbsp;|&nbsp; 💼 **[LinkedIn](https://linkedin.com/in/danishkhilji)**
+---
+
+# 📫 Connect
+
+🌐 https://preziox.com
+
+📧 danish@preziox.com
+
+💼 https://linkedin.com/in/danishkhilji
+
+---
 
 <div align="center">
-<sub>Built in Karachi, Pakistan 🇵🇰 · Registered in Estonia 🇪🇪 · Serving clients globally</sub>
+
+*"Building software that removes manual work from packaging production."*
+
 </div>
