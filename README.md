@@ -270,17 +270,6 @@ PrezioX ArtFlow
 
 I'm currently focused on improving the processing pipeline, expanding packaging workflows, and making prepress automation more practical for real production environments.
 
----
-
-# 📈 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Danishkhilji\&show_icons=true\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Danishkhilji\&layout=compact\&hide_border=true)
-
-</div>
 
 ---
 
